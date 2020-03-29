@@ -4,7 +4,7 @@ Dungeon Of Solitude
 
 This project was made in Unity 5.4.2f2
 
-***Starting the game***
+***Starting the Gme***
 
 To run the application simply run Dungeon_Of_Solitude.exe
 
