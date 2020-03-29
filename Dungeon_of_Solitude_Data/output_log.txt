@@ -1,0 +1,94 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1050 Ti with Max-Q Design (ID=0x1c8c)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Farhad\Downloads\2DGame_FYP\Dungeon_of_Solitude_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Farhad\Downloads\2DGame_FYP\Dungeon_of_Solitude_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Farhad\Downloads\2DGame_FYP\Dungeon_of_Solitude_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Farhad\Downloads\2DGame_FYP\Dungeon_of_Solitude_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Farhad\Downloads\2DGame_FYP\Dungeon_of_Solitude_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Farhad\Downloads\2DGame_FYP\Dungeon_of_Solitude_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Farhad\Downloads\2DGame_FYP\Dungeon_of_Solitude_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Farhad\Downloads\2DGame_FYP\Dungeon_of_Solitude_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.146 seconds
+Platform assembly: C:\Users\Farhad\Downloads\2DGame_FYP\Dungeon_of_Solitude_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Farhad\Downloads\2DGame_FYP\Dungeon_of_Solitude_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on GameManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+desktop: 1920x1080 59Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.563600 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.510300 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 873.
+Total: 0.371400 ms (FindLiveObjects: 0.051200 ms CreateObjectMapping: 0.048400 ms MarkObjects: 0.262300 ms  DeleteObjects: 0.008300 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.540300 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 863.
+Total: 0.254000 ms (FindLiveObjects: 0.033000 ms CreateObjectMapping: 0.021800 ms MarkObjects: 0.192800 ms  DeleteObjects: 0.005700 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.660400 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 874.
+Total: 0.294700 ms (FindLiveObjects: 0.034400 ms CreateObjectMapping: 0.024600 ms MarkObjects: 0.228300 ms  DeleteObjects: 0.006200 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.495000 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 860.
+Total: 0.269800 ms (FindLiveObjects: 0.039000 ms CreateObjectMapping: 0.034900 ms MarkObjects: 0.189200 ms  DeleteObjects: 0.005900 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.094900 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 882.
+Total: 0.523600 ms (FindLiveObjects: 0.060400 ms CreateObjectMapping: 0.047300 ms MarkObjects: 0.402800 ms  DeleteObjects: 0.011600 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.582500 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 862.
+Total: 0.270400 ms (FindLiveObjects: 0.034500 ms CreateObjectMapping: 0.023400 ms MarkObjects: 0.205400 ms  DeleteObjects: 0.006100 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.993100 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 883.
+Total: 0.466100 ms (FindLiveObjects: 0.061400 ms CreateObjectMapping: 0.044700 ms MarkObjects: 0.346500 ms  DeleteObjects: 0.012400 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.023400 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 878.
+Total: 0.442500 ms (FindLiveObjects: 0.055400 ms CreateObjectMapping: 0.042000 ms MarkObjects: 0.333300 ms  DeleteObjects: 0.010400 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.841400 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 892.
+Total: 0.279100 ms (FindLiveObjects: 0.034800 ms CreateObjectMapping: 0.023500 ms MarkObjects: 0.214100 ms  DeleteObjects: 0.005900 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.277600 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 885.
+Total: 0.534800 ms (FindLiveObjects: 0.060300 ms CreateObjectMapping: 0.050400 ms MarkObjects: 0.411000 ms  DeleteObjects: 0.011400 ms)
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 49ec -> priority: 1 
+  Thread -> id: 521c -> priority: 1 
+  Thread -> id: 3d44 -> priority: 1 
