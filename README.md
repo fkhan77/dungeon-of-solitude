@@ -20,8 +20,8 @@ To run the application simply run Dungeon_Of_Solitude.exe
 
 ***Credits***
 
-Developed by Farhad Khan farhadk1996@gmail.com
-Sprite art by Chris Hamons at OpenGameArt.org
-Music and sound effects by Avgvsta at OpenGameArt.org
+- Developed by Farhad Khan farhadk1996@gmail.com
+- Sprite art by Chris Hamons at OpenGameArt.org
+- Music and sound effects by Avgvsta at OpenGameArt.org
 
 
